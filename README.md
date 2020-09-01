@@ -1,2 +1,1 @@
-# documentation
-Documentation, training and media assets
+# Hogbase - Realtime, distributed state management
